@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @atomicamit24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-atomicamit24/atomicamit24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @amitx0006 (Amit)
+- 👀 I’m interested in Artificial Intelligence, Software Development, Competitive Programming, and Open Source
+- 🌱 I’m currently learning Data Structures & Algorithms (C++), Operating Systems, DBMS, and Algorithms-2 as part of my B.Tech CSE curriculum
+- 💞️ I’m looking to collaborate on beginner-friendly open-source projects, AI-based applications, and student-led tech initiatives
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amit-mondal-24jan2005/) | 2401amitmondal@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning complex problems into visual stories—whether it's debugging code or editing a YouTube video!
