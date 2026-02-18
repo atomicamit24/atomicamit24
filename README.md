@@ -169,15 +169,11 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 ---
 
-### 🌍 Visitor Counter
+### 🌍 Visitor Map
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/atomicamit24/count.svg" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <a href="https://clustrmaps.com/site/YOUR_SITE_ID">
-    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=YOUR_MAP_KEY&co=2d78ad&ct=ffffff" alt="Visitor Map"/>
+  <a href="https://clustrmaps.com/site/_oA-1DrPMCxilM8j7lVH-p58ZGwq03Sc1ysMdvpp6yE">
+    <img src="https://clustrmaps.com/map_v2.png?d=_oA-1DrPMCxilM8j7lVH-p58ZGwq03Sc1ysMdvpp6yE&cl=ffffff&w=400&t=n&co=2d78ad&ct=ffffff" alt="Visitor Map"/>
   </a>
 </p>
 
