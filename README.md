@@ -75,11 +75,78 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 4.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-💡 This section auto-updates once you connect WakaTime!
-   Sign up at https://wakatime.com, then add the action:
-   https://github.com/anmol098/waka-readme-stats
+🌞 Morning                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌆 Daytime                9 commits           ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌃 Evening                20 commits          ███████████████░░░░░░░░░░   60.61 % 
+🌙 Night                  2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                20 commits          ███████████████░░░░░░░░░░   60.61 % 
+Thursday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Friday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/02/2026 13:16:33 UTC
 <!--END_SECTION:waka-->
 
 ---
