@@ -154,12 +154,9 @@ JavaScript               1 repo              ███░░░░░░░░�
 ### 🎵 My Spotify Playlist
 
 <p align="center">
-  <iframe src="https://open.spotify.com/embed/playlist/1eXFUaMJ9NGa3hzhi2H8TX?utm_source=generator&theme=0" 
-    width="100%" height="152" frameBorder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-  </iframe>
+  <a href="https://open.spotify.com/playlist/1eXFUaMJ9NGa3hzhi2H8TX">
+    <img src="https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </p>
 > 🎧 _Set this up at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_USER_ID` with your Spotify username_
 
