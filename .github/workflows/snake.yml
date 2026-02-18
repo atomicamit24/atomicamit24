@@ -9,21 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: atomicamit24
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
-
-
-**Verify it worked:**
-
-Go to this URL in your browser:
-```
-https://github.com/atomicamit24/atomicamit24/blob/output/github-contribution-grid-snake-dark.svg
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
