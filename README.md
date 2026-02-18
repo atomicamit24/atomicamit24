@@ -151,14 +151,13 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 ---
 
-### 🎵 Now Playing on Spotify
+### 🎵 My Spotify Playlist
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/playlist/1eXFUaMJ9NGa3hzhi2H8TX">
+    <img src="https://spotify-playlist-readme.vercel.app/api?playlist=1eXFUaMJ9NGa3hzhi2H8TX" alt="Spotify Playlist"/>
   </a>
 </p>
-
 > 🎧 _Set this up at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_USER_ID` with your Spotify username_
 
 ---
