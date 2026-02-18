@@ -18,11 +18,11 @@
 
 ### 🎯 Currently Building
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| **Project Name 1** | Short description of what it does | HTML, CSS, JS |
-| **Project Name 2** | Short description of what it does | Python, SQL |
-| **Project Name 3** | Something awesome in progress... | C++, JS |
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|---|---|---|---|
+| **Portfolio Website** | My personal site showcasing my work | HTML, CSS | [View Project](https://github.com/atomicamit24) |
+| **Project #2** | 🚧 Coming soon... | TBD | - |
+| **Project #3** | 🚧 Coming soon... | TBD | - |
 
 > 💡 _Replace the above with your real projects! Add links like [My Project](https://github.com/atomicamit24/repo-name)_
 
