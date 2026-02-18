@@ -158,7 +158,6 @@ JavaScript               1 repo              ███░░░░░░░░�
     <img src="https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
-> 🎧 _Set this up at [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_USER_ID` with your Spotify username_
 
 ---
 
