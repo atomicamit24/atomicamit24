@@ -177,8 +177,6 @@ JavaScript               1 repo              ███░░░░░░░░�
   </a>
 </p>
 
-> 🗺️ _Get your personal visitor map at [clustrmaps.com](https://clustrmaps.com) — sign up, add your GitHub profile URL, and replace the image src above_
-
 ---
 
 ### 🤝 Let's Connect!
