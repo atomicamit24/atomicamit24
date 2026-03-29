@@ -78,7 +78,7 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -121,17 +121,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 34 mins        ███████████████████░░░░░░   76.60 % 
-Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Markdown                 28 mins             █████████████░░░░░░░░░░░░   50.07 % 
+C++                      28 mins             ████████████░░░░░░░░░░░░░   49.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++ programming          2 hrs 3 mins        █████████████████████████   100.00 % 
+c++ programming          57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +150,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 02:01:34 UTC
+ Last Updated on 29/03/2026 02:03:42 UTC
 <!--END_SECTION:waka-->
 
 ---
