@@ -121,16 +121,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               55 mins             ████████████████████████░   97.05 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JavaScript               56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +151,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 02:10:03 UTC
+ Last Updated on 18/04/2026 02:01:21 UTC
 <!--END_SECTION:waka-->
 
 ---
