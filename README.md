@@ -78,8 +78,6 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -136,11 +134,10 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -150,7 +147,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 02:45:45 UTC
+ Last Updated on 07/06/2026 03:28:43 UTC
 <!--END_SECTION:waka-->
 
 ---
