@@ -78,6 +78,8 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -92,6 +94,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+🌆 Daytime                12 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌃 Evening                30 commits          ████████████████░░░░░░░░░   65.22 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Wednesday                30 commits          ████████████████░░░░░░░░░   65.22 % 
+Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C++                      31 mins             ██████████████████████░░░   88.76 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+
+🔥 Editors: 
+VS Code                  35 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+c++ programming          31 mins             ██████████████████████░░░   88.76 % 
+css                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+
+💻 Operating System: 
+Windows                  35 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -108,7 +151,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:13:19 UTC
+ Last Updated on 26/07/2026 02:24:20 UTC
 <!--END_SECTION:waka-->
 
 ---
