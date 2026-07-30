@@ -78,6 +78,10 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -119,17 +123,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     25 mins             █████████████████░░░░░░░░   67.14 % 
-CSS                      12 mins             ████████░░░░░░░░░░░░░░░░░   32.86 % 
+C++                      51 mins             ██████████░░░░░░░░░░░░░░░   41.18 % 
+CSS                      42 mins             ████████░░░░░░░░░░░░░░░░░   33.53 % 
+HTML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css                      38 mins             █████████████████████████   100.00 % 
+css                      1 hr 13 mins        ███████████████░░░░░░░░░░   58.82 % 
+c++ programming          51 mins             ██████████░░░░░░░░░░░░░░░   41.18 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +160,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:09:55 UTC
+ Last Updated on 30/07/2026 01:59:21 UTC
 <!--END_SECTION:waka-->
 
 ---
