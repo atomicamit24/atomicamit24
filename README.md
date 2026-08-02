@@ -123,19 +123,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      52 mins             ██████████░░░░░░░░░░░░░░░   40.84 % 
-CSS                      43 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-HTML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+CSS                      1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.28 % 
+C++                      52 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
+HTML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css                      1 hr 15 mins        ███████████████░░░░░░░░░░   59.16 % 
-c++ programming          52 mins             ██████████░░░░░░░░░░░░░░░   40.84 % 
+css                      1 hr 36 mins        ████████████████░░░░░░░░░   64.91 % 
+c++ programming          52 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 02:26:30 UTC
+ Last Updated on 02/08/2026 02:22:48 UTC
 <!--END_SECTION:waka-->
 
 ---
