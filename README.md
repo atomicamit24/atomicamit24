@@ -78,7 +78,7 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -123,19 +123,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.28 % 
-C++                      52 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
-HTML                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+CSS                      1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
+C++                      52 mins             ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+HTML                     51 mins             ███████░░░░░░░░░░░░░░░░░░   29.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css                      1 hr 36 mins        ████████████████░░░░░░░░░   64.91 % 
-c++ programming          52 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
+css                      2 hrs 3 mins        ██████████████████░░░░░░░   70.28 % 
+c++ programming          52 mins             ███████░░░░░░░░░░░░░░░░░░   29.72 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 02:22:48 UTC
+ Last Updated on 03/08/2026 02:25:14 UTC
 <!--END_SECTION:waka-->
 
 ---
