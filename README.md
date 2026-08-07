@@ -78,10 +78,6 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -96,54 +92,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-🌆 Daytime                12 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌃 Evening                30 commits          ████████████████░░░░░░░░░   65.22 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Wednesday                30 commits          ████████████████░░░░░░░░░   65.22 % 
-Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-CSS                      34 mins             ███████████████░░░░░░░░░░   61.41 % 
-HTML                     21 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-css                      55 mins             █████████████████████████   99.15 % 
-c++ programming          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -160,7 +108,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:08:09 UTC
+ Last Updated on 07/08/2026 02:26:38 UTC
 <!--END_SECTION:waka-->
 
 ---
