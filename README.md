@@ -78,7 +78,7 @@
 ### ⏱️ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -123,19 +123,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      36 mins             ██████████████░░░░░░░░░░░   57.29 % 
-HTML                     20 mins             ████████░░░░░░░░░░░░░░░░░   32.04 % 
-C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+C++                      1 hr 51 mins        ███████████████████░░░░░░   77.33 % 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-css                      56 mins             ██████████████████████░░░   89.34 % 
-c++ programming          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+c++ programming          1 hr 51 mins        ███████████████████░░░░░░   77.33 % 
+css                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,7 +160,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 01:14:49 UTC
+ Last Updated on 09/08/2026 01:19:38 UTC
 <!--END_SECTION:waka-->
 
 ---
