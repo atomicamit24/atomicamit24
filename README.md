@@ -123,16 +123,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 34 mins       █████████████████████████   100.00 % 
+C++                      56 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++ programming          2 hrs 34 mins       █████████████████████████   100.00 % 
+c++ programming          56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -157,7 +157,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/atomicamit24/atomicamit24/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:01:50 UTC
+ Last Updated on 17/08/2026 00:59:20 UTC
 <!--END_SECTION:waka-->
 
 ---
